@@ -1,1 +1,1 @@
-# Mini-LinkedIn
+# Mini-LinkedIn.
